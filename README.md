@@ -1,6 +1,6 @@
-# Cubo ASCII 3D
+# Cubo Japonês 3D
 
-Um cubo 3D interativo desenhado com caracteres ASCII no Canvas, sem dependências externas.
+Um cubo 3D interativo desenhado com kana e kanji no Canvas, sem dependências externas. Cada face traz palavras e pequenas instruções de sushi em japonês, além de glifos decorativos.
 
 ## Como abrir
 
